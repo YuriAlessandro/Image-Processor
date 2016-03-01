@@ -1,0 +1,16 @@
+var searchData=
+[
+  ['ef_5fblack_5fwhite',['ef_black_white',['../effects_8h.html#ae22e06426af3a04d9219ecdc9aebeddc',1,'ef_black_white(Pixel image[lat][lat]):&#160;effects.h'],['../global_8h.html#ae22e06426af3a04d9219ecdc9aebeddc',1,'ef_black_white(Pixel image[lat][lat]):&#160;effects.h']]],
+  ['ef_5fblur',['ef_blur',['../effects_8h.html#a754a0a04035e0467b1ae9066cb167b07',1,'ef_blur(Pixel image[lat][lat]):&#160;effects.h'],['../global_8h.html#a754a0a04035e0467b1ae9066cb167b07',1,'ef_blur(Pixel image[lat][lat]):&#160;effects.h']]],
+  ['ef_5fborder_5fdetection',['ef_border_detection',['../effects_8h.html#a29ceff303751efe6b37066c9db72b078',1,'ef_border_detection(Pixel image[lat][lat]):&#160;effects.h'],['../global_8h.html#a29ceff303751efe6b37066c9db72b078',1,'ef_border_detection(Pixel image[lat][lat]):&#160;effects.h']]],
+  ['ef_5fenlarge',['ef_enlarge',['../effects_8h.html#ada38e44fe24e360bb66fa5c883b280dd',1,'ef_enlarge(Pixel image[lat][lat], int value):&#160;effects.h'],['../global_8h.html#ada38e44fe24e360bb66fa5c883b280dd',1,'ef_enlarge(Pixel image[lat][lat], int value):&#160;effects.h']]],
+  ['ef_5fhorizontal_5fmirror',['ef_horizontal_mirror',['../effects_8h.html#abf812637c6fbc8d1abdb12cbd6caa586',1,'ef_horizontal_mirror(Pixel image[lat][lat]):&#160;effects.h'],['../global_8h.html#abf812637c6fbc8d1abdb12cbd6caa586',1,'ef_horizontal_mirror(Pixel image[lat][lat]):&#160;effects.h']]],
+  ['ef_5fnegative',['ef_negative',['../effects_8h.html#ae83fe5f95b3553acd6b8db79d803e596',1,'ef_negative(Pixel image[lat][lat], int clrRange):&#160;effects.h'],['../global_8h.html#ae83fe5f95b3553acd6b8db79d803e596',1,'ef_negative(Pixel image[lat][lat], int clrRange):&#160;effects.h']]],
+  ['ef_5freduce',['ef_reduce',['../effects_8h.html#ad691a7d250fa58babed4269af4aae1b6',1,'ef_reduce(Pixel image[lat][lat], int value):&#160;effects.h'],['../global_8h.html#ad691a7d250fa58babed4269af4aae1b6',1,'ef_reduce(Pixel image[lat][lat], int value):&#160;effects.h']]],
+  ['ef_5frotate_5fleft',['ef_rotate_left',['../effects_8h.html#abb4f8c17e17f221e25687265bcab2231',1,'ef_rotate_left(Pixel image[lat][lat]):&#160;effects.h'],['../global_8h.html#abb4f8c17e17f221e25687265bcab2231',1,'ef_rotate_left(Pixel image[lat][lat]):&#160;effects.h']]],
+  ['ef_5fsepia',['ef_sepia',['../effects_8h.html#a18fd26d5231228bab8d35bc467d9ea73',1,'ef_sepia(Pixel image[lat][lat]):&#160;effects.h'],['../global_8h.html#a18fd26d5231228bab8d35bc467d9ea73',1,'ef_sepia(Pixel image[lat][lat]):&#160;effects.h']]],
+  ['ef_5fsharpening',['ef_sharpening',['../effects_8h.html#a85e878d633601c11736447bed64544df',1,'ef_sharpening(Pixel image[lat][lat]):&#160;effects.h'],['../global_8h.html#a85e878d633601c11736447bed64544df',1,'ef_sharpening(Pixel image[lat][lat]):&#160;effects.h']]],
+  ['ef_5fthresholding',['ef_thresholding',['../effects_8h.html#a486361138d8f0a78317cad93d2a83292',1,'ef_thresholding(Pixel image[lat][lat], int value):&#160;effects.h'],['../global_8h.html#a486361138d8f0a78317cad93d2a83292',1,'ef_thresholding(Pixel image[lat][lat], int value):&#160;effects.h']]],
+  ['effects_2eh',['effects.h',['../effects_8h.html',1,'']]],
+  ['extra',['extra',['../global_8h.html#a13b4b3f93978e581992080874672b73d',1,'global.h']]]
+];
