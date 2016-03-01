@@ -8,6 +8,8 @@ All documentation can be viewed in two ways:
   1. In an HTML - for this, just open ../html/main_8c.html
   2. In an RTF file - just open ../rtf/refman.rtf
 
+      --> All comments are currently in Portuguese (PT / BR). Collaborate, translate them into other languages.
+
 ## Main functions
 ```Shell
 void 	ef_thresholding
