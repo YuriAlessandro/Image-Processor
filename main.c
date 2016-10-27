@@ -57,5 +57,5 @@ int main(){
     /* Exibe as opções do programa ao usuário.*/
 	choose_options(image);
 
-	return 0;
+	return EXIT_SUCCESS;
 }
